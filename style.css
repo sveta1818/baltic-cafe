@@ -49,9 +49,11 @@ p{
     padding: 0 10px;
 }
 @media(max-width: 600px){
+    p{
   font-size: 23px;
     line-height: 30px;  
     padding: 0 15px;
+}
 }
 .popup-box {
 padding: 30px;
